@@ -19,8 +19,14 @@
 
 ---
 
+## 📑 Table of Contents / 目录
+
+- [🎬 LTX-2](#ltx-2) - AI video generation model / AI视频生成模型
+
+---
+
 <details>
-<summary><h3>🎬 LTX-2</h3></summary>
+<summary><h3 id="ltx-2">🎬 LTX-2</h3></summary>
 
 > **Official Documentation / 官方文档:**
 > This guide is based on the official [LTX-2 Prompting Guide](https://ltx.io/model/model-blog/prompting-guide-for-ltx-2). Please visit the official website for the most up-to-date information.
@@ -30,10 +36,7 @@
 
 ---
 
-<details>
-<summary><h4>📋 Key Aspects / 关键要素 - What to include / 应包含什么</h4></summary>
-
----
+## 📋 Key Aspects / 关键要素 - What to include / 应包含什么
 
 ## Key Aspects to Include
 ## 应包含的关键方面
@@ -64,14 +67,7 @@
 
 ---
 
-</details>
-
----
-
-<details>
-<summary><h4>✨ Example Prompts / 示例提示词 - 11 detailed examples / 11个详细示例</h4></summary>
-
----
+## ✨ Example Prompts / 示例提示词 - 11 detailed examples / 11个详细示例
 
 To get the most out of the LTX-2 model, a good prompt will make all the difference. The key is painting a complete picture of the story you're telling that flows naturally from beginning to end, covering all the elements the model needs to bring your vision to life.
 
@@ -181,14 +177,7 @@ To get the most out of the LTX-2 model, a good prompt will make all the differen
 
 ---
 
-</details>
-
----
-
-<details>
-<summary><h4>💡 Best Practices / 最佳实践 - Tips for optimal results / 获取最佳效果的技巧</h4></summary>
-
----
+## 💡 Best Practices / 最佳实践 - Tips for optimal results / 获取最佳效果的技巧
 
 ## For Best Results
 ## 为了获得最佳效果
@@ -264,14 +253,7 @@ To get the most out of the LTX-2 model, a good prompt will make all the differen
 
 ---
 
-</details>
-
----
-
-<details>
-<summary><h4>📖 Technical Terms / 技术术语 - Categories and styles / 类别和风格</h4></summary>
-
----
+## 📖 Technical Terms / 技术术语 - Categories and styles / 类别和风格
 
 ## Additional Helpful Terms
 ## 额外有用术语
@@ -454,14 +436,7 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 ---
 
-</details>
-
----
-
-<details>
-<summary><h4>✅ What Works Well / 有效应用 - Strengths of LTX-2 / LTX-2的优势</h4></summary>
-
----
+## ✅ What Works Well / 有效应用 - Strengths of LTX-2 / LTX-2的优势
 
 ## What Works Well with LTX-2
 ## LTX-2 的良好应用
@@ -565,14 +540,7 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 ---
 
-</details>
-
----
-
-<details>
-<summary><h4>⚠️ What to Avoid / 应避免事项 - Common pitfalls / 常见误区</h4></summary>
-
----
+## ⚠️ What to Avoid / 应避免事项 - Common pitfalls / 常见误区
 
 ## What to Avoid with LTX-2
 ## 使用 LTX-2 应避免的事项
@@ -615,14 +583,7 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 ---
 
-</details>
-
----
-
-<details>
-<summary><h4>📝 Quick Tips Summary / 快速提示总结</h4></summary>
-
----
+## 📝 Quick Tips Summary / 快速提示总结
 
 ## Quick Tips Summary
 ## 快速提示总结
