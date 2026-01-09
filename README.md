@@ -621,6 +621,8 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 **Made with ❤️ for personal use by [Yifo98](https://github.com/Yifo98)**
 
-[⬆ Back to Top](#ai-video-generation-prompting-guide)
+---
+
+*💡 Tip: Press `Home` or `Ctrl + Home` to scroll back to top / 按 `Home` 或 `Ctrl + Home` 返回顶部*
 
 </div>
