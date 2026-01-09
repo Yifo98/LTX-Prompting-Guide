@@ -17,10 +17,9 @@
 
 ## 📚 Prompt Collections / 提示词板块
 
-<details>
-<summary><h3>🎬 LTX-2</h3></summary>
-
 ---
+
+## 🎬 LTX-2
 
 ## 📑 Table of Contents / 目录
 
@@ -30,6 +29,9 @@
 - [Technical Terms / 技术术语](#additional-helpful-terms) - Categories and styles / 类别和风格
 - [What Works Well / 有效应用](#what-works-well-with-ltx-2) - Strengths of LTX-2 / LTX-2的优势
 - [What to Avoid / 应避免事项](#what-to-avoid-with-ltx-2) - Common pitfalls / 常见误区
+
+<details>
+<summary><h4>📖 View Full Guide / 查看完整指南</h4></summary>
 
 ---
 
