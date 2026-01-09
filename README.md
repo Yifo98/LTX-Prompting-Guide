@@ -24,12 +24,12 @@
 
 ## 📑 Table of Contents / 目录
 
-- [Key Aspects / 关键要素](#key-aspects-to-include--应包含的关键方面) - What to include / 应包含什么
-- [Example Prompts / 示例提示词](#example-prompts--示例提示词) - 11 detailed examples / 11个详细示例
-- [Best Practices / 最佳实践](#for-best-results--为了获得最佳效果) - Tips for optimal results / 获取最佳效果的技巧
-- [Technical Terms / 技术术语](#additional-helpful-terms--额外有用术语) - Categories and styles / 类别和风格
-- [What Works Well / 有效应用](#what-works-well-with-ltx-2--ltx-2-的良好应用) - Strengths of LTX-2 / LTX-2的优势
-- [What to Avoid / 应避免事项](#what-to-avoid-with-ltx-2--使用-ltx-2-应避免的事项) - Common pitfalls / 常见误区
+- [Key Aspects / 关键要素](#key-aspects-to-include) - What to include / 应包含什么
+- [Example Prompts / 示例提示词](#example-prompts) - 11 detailed examples / 11个详细示例
+- [Best Practices / 最佳实践](#for-best-results) - Tips for optimal results / 获取最佳效果的技巧
+- [Technical Terms / 技术术语](#additional-helpful-terms) - Categories and styles / 类别和风格
+- [What Works Well / 有效应用](#what-works-well-with-ltx-2) - Strengths of LTX-2 / LTX-2的优势
+- [What to Avoid / 应避免事项](#what-to-avoid-with-ltx-2) - Common pitfalls / 常见误区
 
 ---
 
