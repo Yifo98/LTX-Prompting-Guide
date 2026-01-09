@@ -19,21 +19,8 @@
 
 ---
 
-## 🎬 LTX-2
-
-## 📑 Table of Contents / 目录
-
-- [Key Aspects / 关键要素](#key-aspects-to-include) - What to include / 应包含什么
-- [Example Prompts / 示例提示词](#example-prompts) - 11 detailed examples / 11个详细示例
-- [Best Practices / 最佳实践](#for-best-results) - Tips for optimal results / 获取最佳效果的技巧
-- [Technical Terms / 技术术语](#additional-helpful-terms) - Categories and styles / 类别和风格
-- [What Works Well / 有效应用](#what-works-well-with-ltx-2) - Strengths of LTX-2 / LTX-2的优势
-- [What to Avoid / 应避免事项](#what-to-avoid-with-ltx-2) - Common pitfalls / 常见误区
-
 <details>
-<summary><h4>📖 View Full Guide / 查看完整指南</h4></summary>
-
----
+<summary><h3>🎬 LTX-2</h3></summary>
 
 > **Official Documentation / 官方文档:**
 > This guide is based on the official [LTX-2 Prompting Guide](https://ltx.io/model/model-blog/prompting-guide-for-ltx-2). Please visit the official website for the most up-to-date information.
@@ -43,9 +30,8 @@
 
 ---
 
-To get the most out of the LTX-2 model, a good prompt will make all the difference. The key is painting a complete picture of the story you're telling that flows naturally from beginning to end, covering all the elements the model needs to bring your vision to life.
-
-要充分利用 LTX-2 模型,一个好的提示词至关重要。关键是要完整地描绘你要讲述的故事,从头到尾自然流畅地展开,涵盖模型实现你的愿景所需的所有元素。
+<details>
+<summary><h4>📋 Key Aspects / 关键要素 - What to include / 应包含什么</h4></summary>
 
 ---
 
@@ -75,6 +61,21 @@ To get the most out of the LTX-2 model, a good prompt will make all the differen
 - **Describe the audio.** Use clear descriptions for ambient sounds, music, audio, and speech. For dialogue, place the text between quotation marks and (if required) mention the language and accent you would like the character to have.
 
 **描述音频。** 使用清晰的环境音、音乐、音频和语音描述。对于对话,将文本置于引号之间,并(如有需要)注明你希望角色拥有的语言和口音。
+
+---
+
+</details>
+
+---
+
+<details>
+<summary><h4>✨ Example Prompts / 示例提示词 - 11 detailed examples / 11个详细示例</h4></summary>
+
+---
+
+To get the most out of the LTX-2 model, a good prompt will make all the difference. The key is painting a complete picture of the story you're telling that flows naturally from beginning to end, covering all the elements the model needs to bring your vision to life.
+
+要充分利用 LTX-2 模型,一个好的提示词至关重要。关键是要完整地描绘你要讲述的故事,从头到尾自然流畅地展开,涵盖模型实现你的愿景所需的所有元素。
 
 ---
 
@@ -180,6 +181,15 @@ To get the most out of the LTX-2 model, a good prompt will make all the differen
 
 ---
 
+</details>
+
+---
+
+<details>
+<summary><h4>💡 Best Practices / 最佳实践 - Tips for optimal results / 获取最佳效果的技巧</h4></summary>
+
+---
+
 ## For Best Results
 ## 为了获得最佳效果
 
@@ -251,6 +261,15 @@ To get the most out of the LTX-2 model, a good prompt will make all the differen
 > 主持人(对镜头):"让我们来看看我们团队准备的一段短片——记录 Missy 的堕落之路。"
 >
 > 随着镜头拉近母亲泪痕斑斑的脸,灯光微微暗暗。演播室监听器闪烁着亮起,开始播放该片段,观众屏住呼吸。
+
+---
+
+</details>
+
+---
+
+<details>
+<summary><h4>📖 Technical Terms / 技术术语 - Categories and styles / 类别和风格</h4></summary>
 
 ---
 
@@ -435,6 +454,15 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 ---
 
+</details>
+
+---
+
+<details>
+<summary><h4>✅ What Works Well / 有效应用 - Strengths of LTX-2 / LTX-2的优势</h4></summary>
+
+---
+
 ## What Works Well with LTX-2
 ## LTX-2 的良好应用
 
@@ -537,6 +565,15 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 ---
 
+</details>
+
+---
+
+<details>
+<summary><h4>⚠️ What to Avoid / 应避免事项 - Common pitfalls / 常见误区</h4></summary>
+
+---
+
 ## What to Avoid with LTX-2
 ## 使用 LTX-2 应避免的事项
 
@@ -578,6 +615,15 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 ---
 
+</details>
+
+---
+
+<details>
+<summary><h4>📝 Quick Tips Summary / 快速提示总结</h4></summary>
+
+---
+
 ## Quick Tips Summary
 ## 快速提示总结
 
@@ -614,6 +660,8 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 *This guide is based on the official LTX-2 documentation and is designed to help you create effective prompts for AI video generation.*
 
 *本指南基于官方 LTX-2 文档,旨在帮助您创建有效的 AI 视频生成提示词。*
+
+---
 
 </details>
 
