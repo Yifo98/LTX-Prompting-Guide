@@ -542,7 +542,7 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 > Avoid emotional labels like "sad" or "confused" without describing visual cues. Use posture, gesture, and facial expression instead.
 
 > **内部状态:**
-> 避免用"悲伤"或"困惑"等情绪标签,但不要描述视觉上的线索。而是通过姿势、手势和面部表情来应对。
+> 避免在没有描述视觉线索的情况下使用"悲伤"或"困惑"等情绪标签。改用姿势、手势和面部表情来替代。
 
 > **Text and logos:**
 > LTX-2 does not currently generate readable or consistent text. Avoid signage, brand names, or printed material.
@@ -572,7 +572,7 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 > The more actions/ characters/ instructions you add, the higher the chance some of them won't be seen in the output. Begin with simple things and layer on additional instructions as you iterate.
 
 > **过于复杂的提示:**
-> 你添加的动作/字符/指令越多,输出中看到的几率就越大。从简单的事情开始,随着迭代逐步增加额外的指令。
+> 你添加的动作/字符/指令越多,它们在输出中**不被看到**的几率就越大。从简单的事情开始,随着迭代逐步增加额外的指令。
 
 ---
 
@@ -581,19 +581,31 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 **DO's (推荐做法):**
 - Write 4-8 descriptive sentences in a single paragraph
+  在单个流畅段落中写4-8个描述性句子
 - Use present tense verbs
+  使用现在时动词
 - Match detail level to shot scale
+  匹配细节与镜头比例
 - Include clear camera movement directions
+  包含清晰的摄像机运动指示
 - Describe lighting, textures, and atmosphere
+  描述光线、纹理和氛围
 - Specify audio and dialogue with quotes
+  使用引号指定音频和对话
 
 **DON'Ts (避免做法):**
 - Use emotional labels without visual cues
+  不要在没有视觉线索的情况下使用情绪标签
 - Include text or logos
+  不要包含文字或标志
 - Describe complex physics or chaotic motion
+  不要描述复杂物理或混沌运动
 - Overload with too many characters/actions
+  不要使用过多角色/动作
 - Mix conflicting light sources
+  不要混合冲突的光源
 - Overcomplicate prompts
+  不要过度复杂化提示词
 
 ---
 
