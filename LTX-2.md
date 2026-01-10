@@ -15,8 +15,50 @@ To get the most out of the LTX-2 model, a good prompt will make all the differen
 
 ---
 
-## Key Aspects to Include
-## 应包含的关键方面
+## 📑 Quick Navigation / 快速导航
+<span id="top-toc"></span>
+
+<details>
+<summary><strong>📖 Click to expand/collapse full table of contents | 点击展开/收起完整目录</strong></summary>
+
+### Core Concepts / 核心概念
+- [🎯 Key Aspects to Include | 应包含的关键方面](#🎯-key-aspects-to-include-|-应包含的关键方面)
+- [✨ For Best Results | 为了获得最佳效果](#✨-for-best-results-|-为了获得最佳效果)
+
+### Example Prompts / 示例提示词
+- [📝 Example 1 - Monster Truck | 示例 1 - 怪兽卡车](#📝-example-1-|-示例-1)
+- [👨‍👩‍👧 Example 2 - Backyard Scene | 示例 2 - 后院场景](#👨‍👩‍👧-example-2-|-示例-2)
+- [🍪 Example 3 - Baker Scene | 示例 3 - 面包师场景](#🍪-example-3-|-示例-3)
+- [🎤 Example 4 - Talk Show | 示例 4 - 脱口秀](#🎤-example-4-|-示例-4)
+- [🤥 Example 5 - Pinocchio | 示例 5 - 匹诺曹](#🤥-example-5-|-示例-5)
+- [🤖 Example 6 - Sci-Fi Scene | 示例 6 - 科幻场景](#🤖-example-6-|-示例-6)
+- [🏃 Example 7 - Action Shot | 示例 7 - 动作镜头](#🏃-example-7-|-示例-7)
+- [🐸 Example 8 - Frog Yoga | 示例 8 - 青蛙瑜伽](#🐸-example-8-|-示例-8)
+- [🎤 Example 9 - Singer Performance | 示例 9 - 歌手表演](#🎤-example-9-|-示例-9)
+- [🤖 Example 10 - Robot Scene | 示例 10 - 机器人场景](#🤖-example-10-|-示例-10)
+- [📰 Example 11 - News Report | 示例 11 - 新闻报道](#📰-example-11-|-示例-11)
+
+### Reference Terms / 参考术语
+- [📚 Additional Helpful Terms | 额外有用术语](#📚-additional-helpful-terms-|-额外有用术语)
+  - [🎨 Categories | 类别](#🎨-categories-|-类别)
+  - [👁️ Visual Details | 视觉细节](#👁️-visual-details-|-视觉细节)
+  - [🔊 Sound and Voice | 声音与配音](#🔊-sound-and-voice-|-声音与配音)
+  - [🎬 Technical Style Markers | 技术风格标记](#🎬-technical-style-markers-|-技术风格标记)
+
+### Best Practices / 最佳实践
+- [✅ What Works Well with LTX-2 | LTX-2 的良好应用](#✅-what-works-well-with-ltx-2-|-ltx-2-的良好应用)
+- [❌ What to Avoid with LTX-2 | 使用 LTX-2 应避免的事项](#❌-what-to-avoid-with-ltx-2-|-使用-ltx-2-应避免的事项)
+- [💡 Quick Tips Summary | 快速提示总结](#💡-quick-tips-summary-|-快速提示总结)
+
+</details>
+
+<span id="top"></span>
+
+---
+
+## 🎯 Key Aspects to Include
+## 🎯 应包含的关键方面
+<span id="🎯-key-aspects-to-include-|-应包含的关键方面"></span>
 
 - **Establish the shot.** Use cinematography terms that match your preferred film genre. Include aspects like scale or specific category characteristics to further refine the style you're looking for.
 
@@ -42,13 +84,17 @@ To get the most out of the LTX-2 model, a good prompt will make all the differen
 
 **描述音频。** 使用清晰的环境音、音乐、音频和语音描述。对于对话,将文本置于引号之间,并(如有需要)注明你希望角色拥有的语言和口音。
 
+[⬆️ 返回导航 | Back to Navigation](#top-toc) | [⬆️ 返回顶部 | Back to Top](#top)
+
 ---
 
 ## Example Prompts
 ## 示例提示词
+<span id="📝-example-prompts-|-示例提示词"></span>
 
 ### Example 1
 ### 示例 1
+<span id="📝-example-1-|-示例-1"></span>
 
 **English Prompt:**
 
@@ -62,6 +108,7 @@ To get the most out of the LTX-2 model, a good prompt will make all the differen
 
 ### Example 2
 ### 示例 2
+<span id="👨‍👩‍👧-example-2-|-示例-2"></span>
 
 **English Prompt:**
 
@@ -95,6 +142,7 @@ To get the most out of the LTX-2 model, a good prompt will make all the differen
 
 ### Example 3
 ### 示例 3
+<span id="🍪-example-3-|-示例-3"></span>
 
 **English Prompt:**
 
@@ -148,6 +196,7 @@ To get the most out of the LTX-2 model, a good prompt will make all the differen
 
 ## For Best Results
 ## 为了获得最佳效果
+<span id="✨-for-best-results-|-为了获得最佳效果"></span>
 
 - Keep your prompt in a single flowing paragraph to give the model a cohesive scene to work with.
 
@@ -173,10 +222,13 @@ To get the most out of the LTX-2 model, a good prompt will make all the differen
 
 不要害怕不断迭代!LTX-2 设计为快速实验,因此完善提示词是工作流程的一部分。
 
+[⬆️ 返回导航 | Back to Navigation](#top-toc) | [⬆️ 返回顶部 | Back to Top](#top)
+
 ---
 
 ### Example 4
 ### 示例 4
+<span id="🎤-example-4-|-示例-4"></span>
 
 **English Prompt:**
 
@@ -222,6 +274,7 @@ To get the most out of the LTX-2 model, a good prompt will make all the differen
 
 ## Additional Helpful Terms
 ## 额外有用术语
+<span id="📚-additional-helpful-terms-|-额外有用术语"></span>
 
 This is not an exhaustive list. Use it to give you some examples of how to craft the result you're looking for.
 
@@ -229,6 +282,7 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 ### Categories
 ### 类别
+<span id="🎨-categories-|-类别"></span>
 
 **Animation:** stop-motion, 2D/3D animation, claymation, hand-drawn
 
@@ -238,6 +292,7 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 ### Example 5
 ### 示例 5
+<span id="🤥-example-5-|-示例-5"></span>
 
 **English Prompt:**
 
@@ -245,7 +300,7 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 **中文翻译:**
 
-> 匹诺曹坐在审讯室里,看起来紧张,微微出汗。他很轻声地对自己说:"我没做......不是我干的。。。我不是杀人犯。"匹诺曹的鼻子越来越长。镜头拉近房间后方的双面镜子,镜子变黑,镜头靠近时映出两名 FBI 侦探的模糊身影,他们站在另一侧昏暗的房间里。其中一个说:"我跟你说,我感觉这孩子有点不对劲"
+> 匹诺曹坐在审讯室里,看起来紧张,微微出汗。他很轻声地对自己说:"我没做......不是我干的。。。我不是杀人犯。"匹诺曹的鼻子越来越长。镜头拉近房间后方的双面镜子,镜子变黑,镜头靠近时映出两名 FBI 侦探的模糊身影,他们站在另一侧昏暗的房间里。其中一个说:"我跟你说,我感觉这孩子有点不对劲。"
 
 ---
 
@@ -257,6 +312,7 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 ### Example 6
 ### 示例 6
+<span id="🤖-example-6-|-示例-6"></span>
 
 **English Prompt:**
 
@@ -276,6 +332,7 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 ### Example 7
 ### 示例 7
+<span id="🏃-example-7-|-示例-7"></span>
 
 **English Prompt:**
 
@@ -289,6 +346,7 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 ### Visual Details
 ### 视觉细节
+<span id="👁️-visual-details-|-视觉细节"></span>
 
 - **Lighting conditions:** flickering candles, neon glow, natural sunlight, dramatic shadows
 
@@ -310,6 +368,7 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 ### Example 8
 ### 示例 8
+<span id="🐸-example-8-|-示例-8"></span>
 
 **English Prompt:**
 
@@ -335,6 +394,7 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 ### Sound and Voice
 ### 声音与配音
+<span id="🔊-sound-and-voice-|-声音与配音"></span>
 
 - **Setting:** Ambient coffeeshop noises, dripping rain and wind blowing, forest ambience with birds singing
 
@@ -352,6 +412,7 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 ### Example 9
 ### 示例 9
+<span id="🎤-example-9-|-示例-9"></span>
 
 **English Prompt:**
 
@@ -365,6 +426,7 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 ### Technical Style Markers
 ### 技术风格标记
+<span id="🎬-technical-style-markers-|-技术风格标记"></span>
 
 - **Camera language:** follows, tracks, pans across, circles around, tilts upward, pushes in, pulls back, overhead view, handheld movement, over-the-shoulder, wide establishing shot, static frame
 
@@ -390,6 +452,7 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 ### Example 10
 ### 示例 10
+<span id="🤖-example-10-|-示例-10"></span>
 
 **English Prompt:**
 
@@ -399,10 +462,13 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 > 一个动画电影镜头。一个机器人缓慢走着,摄像机推车后退,保持机器人缓慢走路的中景。机器人开始缓慢而沉重地奔跑。随后画面停下,摄像机不断往后移动,直到一个蓝色类似机器人出现在肩膀后方的镜头中。
 
+[⬆️ 返回导航 | Back to Navigation](#top-toc) | [⬆️ 返回顶部 | Back to Top](#top)
+
 ---
 
 ## What Works Well with LTX-2
 ## LTX-2 的良好应用
+<span id="✅-what-works-well-with-ltx-2-|-ltx-2-的良好应用"></span>
 
 > **Cinematic compositions:**
 > Wide, medium, and close-up shots with thoughtful lighting, shallow depth of field, and natural motion.
@@ -450,6 +516,7 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 
 ### Example 11
 ### 示例 11
+<span id="📰-example-11-|-示例-11"></span>
 
 **English Prompt:**
 
@@ -501,16 +568,19 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 >
 > 镜头捕捉到阳光映照在油雾上,随后拉远,展现出整个场景——小镇天际线在狂野的油泉中剪影。
 
+[⬆️ 返回导航 | Back to Navigation](#top-toc) | [⬆️ 返回顶部 | Back to Top](#top)
+
 ---
 
 ## What to Avoid with LTX-2
 ## 使用 LTX-2 应避免的事项
+<span id="❌-what-to-avoid-with-ltx-2-|-使用-ltx-2-应避免的事项"></span>
 
 > **Internal states:**
 > Avoid emotional labels like "sad" or "confused" without describing visual cues. Use posture, gesture, and facial expression instead.
 
 > **内部状态:**
-> 避免用"悲伤"或"困惑"等情绪标签,但不要描述视觉上的线索。而是通过姿势、手势和面部表情来应对。
+> 在未描述视觉线索时，应避免使用"悲伤"或"困惑"等情绪标签。取而代之的是使用姿势、手势和面部表情来描述。
 
 > **Text and logos:**
 > LTX-2 does not currently generate readable or consistent text. Avoid signage, brand names, or printed material.
@@ -528,7 +598,7 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 > Too many characters, layered actions, or excessive objects reduce clarity and model accuracy.
 
 > **场景复杂度过载:**
-> 字符过多、分层动作或过多的物体会降低清晰度和模型的准确性。
+> 角色过多、分层动作或过多的物体会降低清晰度和模型的准确性。
 
 > **Inconsistent lighting logic:**
 > Avoid mixing conflicting light sources (e.g., "a warm sunset with cold fluorescent glow") unless clearly motivated.
@@ -540,12 +610,15 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 > The more actions/ characters/ instructions you add, the higher the chance some of them won't be seen in the output. Begin with simple things and layer on additional instructions as you iterate.
 
 > **过于复杂的提示:**
-> 你添加的动作/字符/指令越多,输出中看到的几率就越大。从简单的事情开始,随着迭代逐步增加额外的指令。
+> 你添加的动作/角色/指令越多，它们中某些内容在输出中看不到的几率就越大。从简单的事情开始，随着迭代逐步增加额外的指令。
+
+[⬆️ 返回导航 | Back to Navigation](#top-toc) | [⬆️ 返回顶部 | Back to Top](#top)
 
 ---
 
 ## Quick Tips Summary
 ## 快速提示总结
+<span id="💡-quick-tips-summary-|-快速提示总结"></span>
 
 **DO's (推荐做法):**
 - Write 4-8 descriptive sentences in a single paragraph
@@ -562,6 +635,10 @@ This is not an exhaustive list. Use it to give you some examples of how to craft
 - Overload with too many characters/actions
 - Mix conflicting light sources
 - Overcomplicate prompts
+
+---
+
+[⬆️ 返回导航 | Back to Navigation](#top-toc) | [⬆️ 返回顶部 | Back to Top](#top)
 
 ---
 
