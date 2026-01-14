@@ -1,11 +1,11 @@
 <div align="center">
 
-# 🎬 AI Video Generation Prompting Guide
-# 🎬 AI 视频生成提示词指南
+# 🎨 AI Image & Video Generation Prompting Guide
+# 🎨 AI 图像与视频生成提示词指南
 
-**Comprehensive bilingual prompting guides for AI video generation tools**
+**Comprehensive bilingual prompting guides for AI image and video generation tools**
 
-**AI视频生成工具的全面双语提示词指南**
+**AI图像与视频生成工具的全面双语提示词指南**
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Yifo98/Prompting-Guide?style=flat-square)
 ![GitHub language count](https://img.shields.io/github/languages/count/Yifo98/Prompting-Guide?style=flat-square)
@@ -17,8 +17,91 @@
 
 ## 📑 Table of Contents / 目录
 
+- [🎨 GLM-Image](#glm-image) - Image description optimization / 图像描述优化
 - [🎬 LTX-2](#ltx-2) - Production-grade AI video generation / 生产级AI视频生成
 - [🎬 通义万相](#通义万相) - Alibaba's AI video generation tool / 阿里巴巴AI视频生成工具
+
+---
+
+<details>
+<summary><h3 id="glm-image">🎨 GLM-Image</h3></summary>
+
+> **Source / 来源:**
+> This guide is organized from the [GLM-Image](https://github.com/zai-org/GLM-Image) project's prompt optimization system.
+>
+> **本文档来源:**
+> 本指南整理自 [GLM-Image](https://github.com/zai-org/GLM-Image) 项目的提示词优化系统。
+
+---
+
+**Quick Access / 快速访问:** View the complete [GLM-Image Prompting Guide](./GLM-Image.md)
+
+**Overview / 概述:**
+
+GLM-Image is an advanced prompt design system specialized in image description optimization. It transforms raw image descriptions into vivid, visually precise, and generation-friendly prompts with strong visual analysis capabilities and professional bilingual expression.
+
+GLM-Image 是一个专注于图像描述优化的高级提示词设计系统，具备出色的视觉解析能力与双语表达水平，能够将原始图像描述转化为更具画面感、审美价值与生成友好度的提示词。
+
+本指南涵盖了：
+
+- **Universal Principles** - 6 core rules for all image types (natural narrative, reasonable enhancement, proper nouns preservation, text marking, style specification)
+- **Image Classification** - Three types: realistic portraits, text-centric, and general images
+- **Detailed Requirements** - Complete element checklists for each image type
+- **Rich Examples** - 9+ comprehensive examples with Chinese and English translations
+- **Best Practices** - Optimization techniques and common mistakes to avoid
+
+本指南涵盖了：
+
+- **通用原则** - 6条适用于所有图像类型的核心规则（自然叙述、合理补充、专有名词保留、文字标注、风格明确）
+- **图像分类** - 三种类型：写实人像、文字信息、通用图像
+- **详细要求** - 每种图像类型的完整要素清单
+- **丰富示例** - 9+个中英文对照的完整示例
+- **最佳实践** - 优化技巧和常见错误避免
+
+---
+
+**Key Features / 主要特性:**
+
+✨ **Intelligent Classification** - Automatically categorizes images and applies optimal strategies
+✨ **Bilingual Support** - Complete Chinese and English system prompts
+✨ **Rich Examples** - Detailed examples for portraits, text scenes, and general images
+✨ **Optimization Focus** - Enhances visual appeal without changing original meaning
+✨ **Generation-Friendly** - Optimized prompts specifically for AI image generation
+
+✨ **智能分类** - 自动判断图像类型并应用最佳策略
+✨ **双语支持** - 完整的中英文系统提示词
+✨ **丰富示例** - 人像、文字、通用场景的详细示例
+✨ **优化专注** - 提升视觉吸引力而不改变原意
+✨ **生成友好** - 专门为AI图像生成优化的提示词
+
+---
+
+**Core Principles / 核心原则:**
+
+1. **Use natural narrative language** - Avoid bullet points or structured formatting
+2. **Reasonably supplement visual details** - Enhance lighting, materials, atmosphere when needed
+3. **Preserve proper nouns** - Keep brand names, IPs, locations unchanged
+4. **Mark text clearly** - Use quotation marks for all text content
+5. **Specify visual style** - Clearly state the overall visual style
+6. **Output only the description** - No explanations or category labels
+
+1. **使用自然叙述语言** - 避免条列或结构化格式
+2. **合理补充视觉细节** - 适当增强光线、材质、氛围
+3. **保留专有名词** - 品牌名、IP、地名等保持不变
+4. **清晰标注文字** - 所有文字内容用引号标出
+5. **明确视觉风格** - 清晰说明整体视觉风格
+6. **只输出描述文本** - 不加解释或类别标注
+
+---
+
+**Model Resources / 模型资源:**
+
+- 🤖 [GitHub Repository](https://github.com/zai-org/GLM-Image)
+- 📖 [Example Code](https://github.com/zai-org/GLM-Image/blob/main/examples/prompt_utils.py)
+
+---
+
+</details>
 
 ---
 
